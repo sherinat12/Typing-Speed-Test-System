@@ -43,7 +43,7 @@ typing.exe
 ---
 
 ## 👩‍💻 Author
-- Your Name
+- Raja Sherina T
 
 ---
 
