@@ -44,6 +44,7 @@ typing.exe
 
 ## 👩‍💻 Author
 - Raja Sherina T
+- CSE Dept
 
 ---
 
