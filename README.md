@@ -37,7 +37,7 @@ typing.exe
 
 ## 📂 Project Structure
 /project-folder  
-│── typing_test.c  
+│── typing_test.c 
 │── README.md  
 
 ---
