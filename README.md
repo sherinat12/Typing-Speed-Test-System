@@ -1,4 +1,4 @@
-# ⌨️ Typing Speed Test System (C Project)
+# ⌨️ Typing Speed Test System 
 
 ## 📌 Description
 This project is developed using the C programming language.  
