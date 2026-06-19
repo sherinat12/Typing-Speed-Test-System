@@ -1,6 +1,6 @@
 # ⌨️ Typing Speed Test System 
 
-## 📌 Description
+## 📌 Description 
 This project is developed using the C programming language.  
 It is a Typing Speed Test System that checks typing accuracy and calculates typing time.
 
