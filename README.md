@@ -13,7 +13,7 @@ It is a Typing Speed Test System that checks typing accuracy and calculates typi
 - Colored console interface
 - User-friendly design
  
----
+--- 
 
 ## 🛠️ Technologies Used
 - C Programming Language
