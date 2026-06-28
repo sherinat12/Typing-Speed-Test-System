@@ -6,7 +6,7 @@ It is a Typing Speed Test System that checks typing accuracy and calculates typi
 
 ---
  
-## 🎯 Features 
+## 🎯 Features  
 - Typing practice     
 - Accuracy checking   
 - Time calculation 
