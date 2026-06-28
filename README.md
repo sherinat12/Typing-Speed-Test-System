@@ -10,7 +10,7 @@ It is a Typing Speed Test System that checks typing accuracy and calculates typi
 - Typing practice     
 - Accuracy checking   
 - Time calculation 
-- Colored console interface
+- Colored console interface 
 - User-friendly design 
    
 --- 
