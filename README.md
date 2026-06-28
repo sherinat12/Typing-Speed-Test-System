@@ -9,7 +9,7 @@ It is a Typing Speed Test System that checks typing accuracy and calculates typi
 ## 🎯 Features    
 - Typing practice       
 - Accuracy checking   
-- Time calculation  
+- Time calculation   
 - Colored console interface    
 - User-friendly design 
    
